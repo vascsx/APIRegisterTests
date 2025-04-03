@@ -1,0 +1,76 @@
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Diretórios de ambiente
+node_modules/
+dist/
+build/
+coverage/
+out/
+tmp/
+temp/
+.vscode/
+.idea/
+
+# Arquivos de log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependências do sistema
+package-lock.json
+yarn.lock
+
+# Arquivos temporários
+*.tmp
+*.swp
+.history
+
+# Configurações do ambiente IDE
+/.vscode/
+/.idea/
+/*.code-workspace
+
+# Arquivos de configuração específicos
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+cypress.env.json
+
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
+# Arquivos de compilação
+*.exe
+*.o
+*.so
+
+# Dependências do Python
+__pycache__/
+*.py[cod]
+
+# Arquivos do macOS
+.AppleDouble
+.LSOverride
+
+# Arquivos do Linux
+*~
+
+# Arquivos do Windows
+*.ini
+*.lnk
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Outros
+*.bak
+*.backup
+*.swp
